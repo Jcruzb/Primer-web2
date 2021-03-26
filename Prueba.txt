@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-este es otro título de la linea master
-=======
 Titulo
->>>>>>> rama2
 
 Me tocará comprar una PC :(
     
     bla bla
+Quiero una PC gamer
